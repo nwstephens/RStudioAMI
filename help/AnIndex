@@ -1,0 +1,9 @@
+RStudioAMI-package	RStudioAMI-package
+dropboxStatus	dropboxStatus
+excludeSyncDropbox	listSyncDropbox
+includeSyncDropbox	listSyncDropbox
+linkDropbox	linkDropbox
+listSyncDropbox	listSyncDropbox
+passwd	passwd
+RStudioAMI	RStudioAMI-package
+unlinkDropbox	unlinkDropbox

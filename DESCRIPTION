@@ -1,0 +1,14 @@
+Package: RStudioAMI
+Type: Package
+Title: Control of RStudio AMI instance
+Version: 0.2.1
+Date: 2015-08-30
+Author: Louis Aslett <aslett@stats.ox.ac.uk>
+Maintainer: Louis Aslett <aslett@stats.ox.ac.uk>
+Description: Functions to manage the RStudio AMIs created by Louis Aslett.
+    Full details are at http://www.louisaslett.com/
+License: GPL-2
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-08-30 17:04:35 UTC; louis
+Built: R 3.4.0; ; 2017-05-22 20:49:10 UTC; unix

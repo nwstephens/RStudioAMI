@@ -1,0 +1,6 @@
+RStudioAMI-package      Control of RStudio AMI instance
+dropboxStatus           Show status of Dropbox
+linkDropbox             Link a Dropbox account
+listSyncDropbox         Selective sync for Dropbox
+passwd                  Change password
+unlinkDropbox           Un-link a Dropbox account
